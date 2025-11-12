@@ -1,6 +1,9 @@
 [package]
 name = "vxutil-engine"
 version = "0.1.0"
+authors = [
+    "levish <shiueo.csh@gmail.com>",
+]
 edition = "2024"
 rust-version = "1.91.1"
 
